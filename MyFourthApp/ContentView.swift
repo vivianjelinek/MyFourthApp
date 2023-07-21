@@ -26,7 +26,7 @@ struct ContentView: View {
                         .multilineTextAlignment(.center)
                 }
                 
-                Text("One of the most sucessful and influential musicians of all time, Swift is known for her creative lyrics and catchy tunes. She also uses her voice to inspire many and lay the path for others to follow. ")        }
+                Text("One of the most sucessful and influential musicians of all time, Swift is known for her creative lyrics and catchy tunes. She also uses her voice to inspire many and lay the path for others to follow. :)")        }
             .padding() .background(Rectangle().foregroundColor(.white)).cornerRadius(30).shadow(radius:30)
             .padding()
         }
